@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=Sakshi%20Shewale&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=16" width="100%" alt="Sakshi Shewale — Computer Engineering student and aspiring software engineer" />
-</p>
-
 <table>
   <tr>
     <td width="58%" valign="middle">
