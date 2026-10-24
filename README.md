@@ -4,17 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Sakshi%20Shewale&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=16" width="100%" alt="Sakshi Shewale profile banner" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/sakshishewale01">
-    <img src="https://img.shields.io/badge/GitHub-sakshishewale01-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/sakshi-shewale05/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="https://sakshishewale-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio" />
-  </a>
-</p>
+
 
 ## 👩‍💻 About Me
 
@@ -53,27 +43,7 @@ I'm a third-year **B.Tech Computer Engineering student at MIT Academy of Enginee
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code and Vercel" />
 </p>
 
-## 🚀 Projects I'm Building
 
-### 🌐 CampusHub
-A college event management web application designed to help students discover events, explore activities, and register online.
-
-**Focus:** HTML, CSS, JavaScript, form validation, and web development.
-
-### 🎓 Campus Connect
-A peer academic exchange platform designed to make it easier for students to access and share academic resources.
-
-**Focus:** React, TypeScript, Node.js, Express, MySQL, and authentication.
-
-### 🌍 Socio3
-A decentralized social media platform exploring user ownership, transparent moderation, and new ways to interact with social content.
-
-**Focus:** Web3, smart contracts, blockchain, and decentralized applications.
-
-### 🌱 More Projects
-I'm continuously experimenting with new ideas, improving existing applications, and documenting my learning journey through code.
-
-👉 Explore all my repositories: [github.com/sakshishewale01](https://github.com/sakshishewale01)
 
 ## 📊 GitHub Overview
 
