@@ -1,89 +1,147 @@
-# Hi, I'm Sakshi Shewale 👋
+<!--
+  SAKSHI SHEWALE | GITHUB PROFILE
+  Minimal • Editorial • Developer-focused
+-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Sakshi%20Shewale&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=16" width="100%" alt="Sakshi Shewale profile banner" />
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0B1220,50:172554,100:164E63&text=Sakshi%20Shewale&fontSize=46&fontColor=E2E8F0&fontAlignY=42&desc=COMPUTER%20ENGINEERING%20%2F%20SOFTWARE%20DEVELOPMENT&descSize=12&descColor=67E8F9&descAlignY=72" width="100%" alt="Sakshi Shewale — Computer Engineering and Software Development" />
 
+<br/>
 
-## 👩‍💻 About Me
+**Building my foundation in software engineering, one project at a time.**
 
-I'm a third-year **B.Tech Computer Engineering student at MIT Academy of Engineering, Pune**, passionate about software development, problem-solving, and building applications that solve real-world problems.
+[Portfolio](https://sakshishewale-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sakshi-shewale05/) · [Repositories](https://github.com/sakshishewale01?tab=repositories)
 
-- 💻 Strengthening my Data Structures and Algorithms skills using C++.
-- 🌐 Learning full-stack web development and building interactive web applications.
-- 🤖 Exploring AI-powered applications and emerging technologies.
-- 🚀 Turning ideas into practical projects while improving my development skills.
-- 🎯 Preparing for software development internships and future engineering opportunities.
-- 🤝 Open to collaborating on interesting projects and learning from fellow developers.
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" alt="C++, Java, Python and JavaScript" />
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML, CSS, React, Tailwind CSS and Vite" />
-</p>
-
-### ⚙️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb&theme=dark" alt="Node.js, Express, Flask, MySQL and MongoDB" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code and Vercel" />
-</p>
-
-
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshishewale01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshishewale01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshishewale01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-## 🌱 Currently Focusing On
-
-- 📚 Practicing DSA and problem-solving consistently.
-- 🧩 Improving my understanding of JavaScript and React.
-- 🏗️ Building full-stack projects with clean, maintainable code.
-- 💼 Preparing for software development internships.
-- 📈 Learning by building, debugging, and improving real projects.
-
-## 🤝 Let's Connect!
-
-I'm always happy to connect with developers, students, and people who enjoy building useful things with technology.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-shewale05/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://sakshishewale-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
-  </a>
-  <a href="https://github.com/sakshishewale01">
-    <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>"Small steps, consistent learning, meaningful projects."</i>
-  <br />
-  <b>Thanks for visiting my profile! 💙</b>
-</p>
+### 01 / A LITTLE ABOUT ME
+
+I'm a B.Tech Computer Engineering student at **MIT Academy of Engineering, Pune**, interested in understanding how software works beneath the surface and turning ideas into useful applications.
+
+Currently, I'm strengthening my problem-solving skills, exploring full-stack development, and experimenting with AI-driven features in practical projects.
+
+- **My foundation** — Data Structures and Algorithms in C++
+- **My playground** — Web applications, APIs, and database-driven systems
+- **My curiosity** — AI, cloud technologies, and better software design
+- **My next milestone** — Becoming ready for software engineering internships
+
+I believe in learning by building, understanding the code I write, and improving through iteration.
+
+### 02 / MY TECHNICAL TOOLKIT
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" alt="C++, Java, Python, JavaScript"/>
+
+</td>
+<td width="50%" valign="top">
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Vite"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb&theme=dark" alt="Node.js, Express, Flask, MySQL, MongoDB"/>
+
+</td>
+<td width="50%" valign="top">
+
+**DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code, Vercel"/>
+
+</td>
+</tr>
+</table>
+
+### 03 / WHAT I'M WORKING TOWARDS
+
+<table>
+<tr>
+<td width="38%" valign="top">
+
+**01 — Problem Solving**
+
+</td>
+<td valign="top">
+
+Practicing DSA, learning to recognize patterns, and writing clearer, more efficient solutions.
+
+</td>
+</tr>
+<tr>
+<td width="38%" valign="top">
+
+**02 — Full-Stack Engineering**
+
+</td>
+<td valign="top">
+
+Building stronger foundations in frontend development, backend APIs, authentication, and databases.
+
+</td>
+</tr>
+<tr>
+<td width="38%" valign="top">
+
+**03 — Practical Projects**
+
+</td>
+<td valign="top">
+
+Exploring real-world workflows and integrating useful features while improving code quality and maintainability.
+
+</td>
+</tr>
+<tr>
+<td width="38%" valign="top">
+
+**04 — Career Preparation**
+
+</td>
+<td valign="top">
+
+Preparing for software development internships through consistent practice, project work, and technical learning.
+
+</td>
+</tr>
+</table>
+
+### 04 / GITHUB, IN PROGRESS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshishewale01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=67E8F9&icon_color=67E8F9&text_color=CBD5E1" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshishewale01&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=CBD5E1" alt="Most used languages"/>
+
+</div>
+
+### 05 / FIND ME ELSEWHERE
+
+Interested in collaborating, exchanging ideas, or connecting with fellow developers? Feel free to reach out.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sakshi-shewale05/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-172554?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/></a>
+<a href="https://sakshishewale-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-172554?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio"/></a>
+<a href="https://github.com/sakshishewale01"><img src="https://img.shields.io/badge/GITHUB-Follow-172554?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/></a>
+
+<br/><br/>
+
+*Curiosity drives the learning. Projects make it real.*
+
+</div>
