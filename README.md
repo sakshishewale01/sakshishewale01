@@ -37,6 +37,8 @@
 - 🤖 Exploring AI and new technologies through hands-on projects.
 - 🚀 Focused on improving my coding skills and preparing for software development internships.
 - 🤝 Enjoy collaborating, sharing ideas, and learning from other developers.
+
+  
 🧰 Tech Stack
 Languages
 <p>
@@ -90,6 +92,4 @@ Tools & Platforms
   <i>“Learn consistently. Build thoughtfully. Improve every day.”</i>
   <br /><br />
   <b>✨ Thanks for visiting my profile! ✨</b>
-  <br />
-  If you find something interesting, feel free to explore my repositories or connect with me.
 </p>
