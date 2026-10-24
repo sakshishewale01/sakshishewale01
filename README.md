@@ -2,7 +2,7 @@
   SAKSHI SHEWALE | GITHUB PROFILE
   Minimal • Editorial • Developer-focused
 -->
-
+Hi, I'm Sakshi Shewale 👋
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0B1220,50:172554,100:164E63&text=Sakshi%20Shewale&fontSize=46&fontColor=E2E8F0&fontAlignY=42&desc=COMPUTER%20ENGINEERING%20%2F%20SOFTWARE%20DEVELOPMENT&descSize=12&descColor=67E8F9&descAlignY=72" width="100%" alt="Sakshi Shewale — Computer Engineering and Software Development" />
