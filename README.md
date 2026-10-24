@@ -25,7 +25,7 @@
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="assets/lady-developer.png" width="100%" alt="Illustration of a woman developer working at her computer" />
+      <img src="[assets/lady-developer.png](https://chatgpt.com/s/m_6adc5b4b057c81918fa96b44e65a4a2d)" width="100%" alt="Illustration of a woman developer working at her computer" />
     </td>
   </tr>
 </table>
