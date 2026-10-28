@@ -1,4 +1,4 @@
-<table>
+ <table>
   <tr>
     <td width="58%" valign="middle">
       <h1>Hi, I'm Sakshi Shewale 👋</h1>
@@ -30,7 +30,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3" width="100%" alt="" />
 </p>
 
-👩‍💻 About Me
+<h2>👩‍💻 About Me</h2>
+
 - 🎓 Third-year B.Tech Computer Engineering student at MIT Academy of Engineering, Pune.
 - 💻 Practicing problem-solving and Data Structures & Algorithms with C++.
 - 🌐 Learning to build full-stack web applications.
@@ -38,49 +39,57 @@
 - 🚀 Focused on improving my coding skills and preparing for software development internships.
 - 🤝 Enjoy collaborating, sharing ideas, and learning from other developers.
 
-  
-🧰 Tech Stack
-Languages
+<h2>🧰 Tech Stack</h2>
+
+<h3>Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" alt="C++, Java, Python and JavaScript" />
 </p>
 
-
-Frontend
+<h3>Frontend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML, CSS, React, Tailwind CSS and Vite" />
 </p>
 
-
-Backend & Databases
+<h3>Backend & Databases</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb&theme=dark" alt="Node.js, Express, Flask, MySQL and MongoDB" />
 </p>
 
-
-Tools & Platforms
+<h3>Tools & Platforms</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, Visual Studio Code and Vercel" />
 </p>
 
+<h2>📈 GitHub at a Glance</h2>
 
-📈 GitHub at a Glance
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshishewale01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshishewale01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshishewale01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sakshishewale01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+<h3>⭐ GitHub Stars</h3>
 
-🤝 Let's Connect
+<p align="center">
+  <a href="https://github.com/sakshishewale01?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sakshishewale01?style=for-the-badge&logo=github&label=Total%20Repository%20Stars&color=yellow" alt="Total GitHub repository stars" />
+  </a>
+  <a href="https://github.com/sakshishewale01?tab=followers">
+    <img src="https://img.shields.io/github/followers/sakshishewale01?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub followers" />
+  </a>
+</p>
+
+<h2>🤝 Let's Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-shewale05/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://sakshishewale-portfolio.vercel.app/">
+  <a href="https://sakshi-shewale-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
   </a>
   <a href="https://github.com/sakshishewale01">
