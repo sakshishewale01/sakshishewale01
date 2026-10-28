@@ -64,23 +64,16 @@
 <h2>📈 GitHub at a Glance</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshishewale01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshishewale01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshishewale01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshishewale01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars%20Earned-0-8957e5?style=for-the-badge" alt="Total Stars Earned: 0" />
 </p>
 
-<h3>⭐ GitHub Stars</h3>
-
 <p align="center">
-  <a href="https://github.com/sakshishewale01?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sakshishewale01?style=for-the-badge&logo=github&label=Total%20Repository%20Stars&color=yellow" alt="Total GitHub repository stars" />
-  </a>
-  <a href="https://github.com/sakshishewale01?tab=followers">
-    <img src="https://img.shields.io/github/followers/sakshishewale01?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub followers" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=sakshishewale01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <h2>🤝 Let's Connect</h2>
