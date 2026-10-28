@@ -69,10 +69,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐%20Total%20Stars%20Earned-0-8957e5?style=for-the-badge" alt="Total Stars Earned: 0" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sakshishewale01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
